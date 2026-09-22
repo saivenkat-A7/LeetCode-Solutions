@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0189-rotate-array) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
