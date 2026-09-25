@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
 | ------- |
