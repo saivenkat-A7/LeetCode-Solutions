@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
