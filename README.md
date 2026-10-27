@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0231-power-of-two) |
