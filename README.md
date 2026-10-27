@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0136-single-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0485-max-consecutive-ones](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
