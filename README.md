@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [1143-longest-common-subsequence](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Manacher
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
