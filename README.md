@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0338-counting-bits](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0338-counting-bits) |
 ## Manacher
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
