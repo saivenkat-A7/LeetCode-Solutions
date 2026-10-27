@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
