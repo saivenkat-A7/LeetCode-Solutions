@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
@@ -117,10 +121,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saivenkat-A7/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
